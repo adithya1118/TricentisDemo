@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="102159" started-at="2023-06-28T11:36:32 IST" finished-at="2023-06-28T11:38:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="102159" started-at="2023-06-28T11:36:32 IST" finished-at="2023-06-28T11:38:14 IST">
+      <class name="Tst.TestingAutomobile">
+        <test-method status="PASS" signature="intitlise()[pri:0, instance:Tst.TestingAutomobile@48e4374]" name="intitlise" is-config="true" duration-ms="10068" started-at="2023-06-28T11:36:32 IST" finished-at="2023-06-28T11:36:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitlise -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="16314" started-at="2023-06-28T11:36:50 IST" data-provider="loginTest" finished-at="2023-06-28T11:37:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@287f94b1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="6419" started-at="2023-06-28T11:37:07 IST" data-provider="loginTest" finished-at="2023-06-28T11:37:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@30b34287]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="9525" started-at="2023-06-28T11:37:13 IST" data-provider="loginTest" finished-at="2023-06-28T11:37:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5489c777]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="11966" started-at="2023-06-28T11:37:23 IST" data-provider="loginTest" finished-at="2023-06-28T11:37:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3676ac27]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="9782" started-at="2023-06-28T11:37:35 IST" data-provider="loginTest" finished-at="2023-06-28T11:37:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@62f87c44]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="8116" started-at="2023-06-28T11:37:44 IST" data-provider="loginTest" finished-at="2023-06-28T11:37:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@48f5bde6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="7088" started-at="2023-06-28T11:37:53 IST" data-provider="loginTest" finished-at="2023-06-28T11:38:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@525d79f0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="6970" started-at="2023-06-28T11:38:00 IST" data-provider="loginTest" finished-at="2023-06-28T11:38:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5149f008]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="siteAutomobile([Ljava.lang.String;)[pri:1, instance:Tst.TestingAutomobile@48e4374]" name="siteAutomobile" duration-ms="6900" started-at="2023-06-28T11:38:07 IST" data-provider="loginTest" finished-at="2023-06-28T11:38:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7072bc39]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteAutomobile -->
+        <test-method status="PASS" signature="closing()[pri:0, instance:Tst.TestingAutomobile@48e4374]" name="closing" is-config="true" duration-ms="148" started-at="2023-06-28T11:38:14 IST" finished-at="2023-06-28T11:38:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- Tst.TestingAutomobile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
