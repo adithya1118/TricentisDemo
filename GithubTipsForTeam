@@ -1,0 +1,13 @@
+Suppose you clone the repository and added nessasary changes. Meanwhile, someone pushed the code in main branch. Without knowing you pushed your code to main? how to deal this type of situations. And how to avoid this type of situations?
+
+This is a common scenario when multiple people are working on the same project. Here’s how you can handle it:
+
+Pull Before Push: Always pull the latest changes from the main branch before you push your changes. This ensures that your local copy is up-to-date with the remote repository. You can do this with the command git pull origin main.
+Merge Conflicts: If someone has made changes to the same parts of the code that you have, you’ll encounter a merge conflict when you try to pull or merge. Git will show you the conflicting lines, and you’ll have to manually resolve the conflict by choosing which changes to keep.
+Push Your Changes: After resolving any conflicts, you can push your changes to the remote repository.
+To avoid these situations, you can follow these best practices:
+
+Communicate: Keep in touch with your team members and let them know what parts of the code you’re working on. This can help avoid conflicts.
+Use Branches: Instead of working directly on the main branch, create a new branch for each feature or bug fix. This keeps the main branch stable and reduces the chances of conflicts.
+Pull Often: Regularly pull the latest changes from the main branch. This helps you catch conflicts early, when they’re easier to resolve.
+Remember, dealing with merge conflicts is a normal part of collaborative coding. It can seem intimidating at first, but with practice, it becomes easier. There are also many tools available that can help you resolve conflicts. Don’t be afraid to ask for help if you need it!
